@@ -1,4 +1,4 @@
-#do pip install keras to instoll the ocr model.
+#do pip install keras to install the ocr model.
 
 # We import matplotlib and the Keras-ocr library to process the images and extract text from them.
 # Matplotlib helps analyse and create visual representations of data.
